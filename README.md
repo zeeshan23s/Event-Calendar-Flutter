@@ -1,0 +1,2 @@
+# Event Calendar
+An Event Calendar allows Events to be organized into meaningful, descriptive groupings that help to provide insights into and collaboration about a specific Data Point or range of Data Points.
